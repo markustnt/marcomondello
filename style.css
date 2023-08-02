@@ -48,6 +48,12 @@ body{
     font-size: 18px;
     color: #62666d;
 }
+.info{
+    width: 70%;
+    font-size: 12px;
+    margin-top: 100px;
+    color: #474b4e;
+}
 .dropdown{
     min-width: 15em;
     position: relative;
@@ -121,6 +127,5 @@ body{
     display: block;
     opacity: 1;
 }
-
 
 
