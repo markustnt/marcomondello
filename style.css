@@ -35,7 +35,7 @@ body{
     width: 600px;
     background-color: #23242a;;
     border: 3px solid #26489a;
-    box-shadow: 0 0 0.8em red;
+    box-shadow: 0 0 0.8em #26489a;
     border-radius: 35px;
     display: flex;
     flex-direction: column;
